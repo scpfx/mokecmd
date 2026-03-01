@@ -1,0 +1,8 @@
+{"logger_name": "logger", "event": "已启动日志清理任务，将自动清理30天前的日志文件（轮转份数限制: 30个文件）", "level": "info", "lineno": 966, "module": "src.common.logger", "timestamp": "03-01 06:09:41"}
+{"logger_name": "logger", "event": "日志系统已初始化:", "level": "info", "lineno": 906, "module": "src.common.logger", "timestamp": "03-01 06:09:41"}
+{"logger_name": "logger", "event": "  - 控制台级别: INFO", "level": "info", "lineno": 907, "module": "src.common.logger", "timestamp": "03-01 06:09:41"}
+{"logger_name": "logger", "event": "  - 文件级别: DEBUG", "level": "info", "lineno": 908, "module": "src.common.logger", "timestamp": "03-01 06:09:41"}
+{"logger_name": "logger", "event": "  - 轮转份数: 30个文件|自动清理: 30天前的日志", "level": "info", "lineno": 909, "module": "src.common.logger", "timestamp": "03-01 06:09:41"}
+{"logger_name": "config", "event": "MaiCore当前版本: 0.12.2", "level": "info", "lineno": 458, "module": "src.config.config", "timestamp": "03-01 06:09:42"}
+{"logger_name": "config", "event": "bot_config.toml配置文件不存在，从模板创建新配置", "level": "info", "lineno": 212, "module": "src.config.config", "timestamp": "03-01 06:09:42"}
+{"logger_name": "config", "event": "已创建新bot_config配置文件，请填写后重新运行: /sec/home/container/config/bot_config.toml", "level": "info", "lineno": 215, "module": "src.config.config", "timestamp": "03-01 06:09:42"}
